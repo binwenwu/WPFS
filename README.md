@@ -12,6 +12,8 @@
 
 Relying on the multi-source heterogeneous spatiotemporal big data and algorithm models accumulated in the early stage of the project, the team has built a three-level architecture application platform based on "digital intelligence integration" for wind power clusters, wind farm stations, and single wind turbines. While covering all aspects of wind power prediction, it also cleverly integrates advanced technologies such as the `Internet of Things`, `digital twins`, and `artificial intelligence`.
 
+<div align="center"><img alt="Tankenqi Logo" width="465" height="220" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172536574.png"></div>
+
 ![image-20240331172536574](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172536574.png)
 
 Specifically, the project is based on a large-scale distributed database with full temporal and spatial resolution, as well as the team's innovative and integrated algorithm, the `Comprehensive Time series Fusion Networks (CTFN)`. In terms of digitization and intelligence, a multimodal large language model robot is introduced to create functional modules such as **data upload and preprocessing, training prediction, digital twin stations, wind farm monitoring screens, wind turbine anomaly monitoring, and AR wind power.**
