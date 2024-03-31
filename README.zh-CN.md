@@ -12,7 +12,7 @@
 
 有赖于项目前期积累的多源异构时空大数据和算法模型，团队基于“数智一体”搭建了一个风电集群、风电场站、单风机三级架构应用平台，在涵盖了风电预测的方方面面的同时，还巧妙地融合了**物联网**、**数字孪生**、**人工智能**等先进技术。
 
-![image-20240331172536574](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172536574.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172536574.png"></div>
 
 具体而言，项目以全时空分辨率大型分布式数据库以及团队自行创新融合的算法`Complementary Time series Fusion Networks（CTFN）`为基础，在数字化与智能化方面引入多模态大语言模型机器人，打造了**数据上传与预处理、训练预测、数字孪生场站、风电场监测大屏、风机异常监控以及AR风电**等功能模块。
 
@@ -20,7 +20,7 @@
 
 团队提出了一个融合天气预报数据的预测算法，对二十个风机统一建模，扩充数据集。然后将天气预报数据扩展后输入到编码器和解码器中。考虑到针对不同风机模型预测效果不同，团队通过预测误差来决定模型的选择，如LightGBM与深度学习的模型集成方案。最后模型算法也取得了全国前列的好成绩（**score: 0.75274**）。
 
-![image-20240331172804499](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172804499.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172804499.png"></div>
 
 ## 创新特色
 
@@ -40,35 +40,35 @@
 
 - **多终端**
 
-![image-20240331173142289](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173142289.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173142289.png"></div>
 
 - **数据上传与预处理**
 
-![image-20240331173205307](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173205307.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173205307.png"></div>
 
 - **训练预测**
 
-![image-20240331173252686](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173252686.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173252686.png"></div>
 
 - **数字场站**
 
-![image-20240331173304257](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173304257.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173304257.png"></div>
 
 - **监测大屏**
 
-![image-20240331173318637](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173318637.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173318637.png"></div>
 
 - **异常监控**
 
-![image-20240331173328034](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173328034.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173328034.png"></div>
 
 - **AR**
 
-![image-20240331173358016](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173358016.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173358016.png"></div>
 
 - **多模态问答机器人**
 
-![image-20240331173416524](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173416524.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173416524.png"></div>
 
 ## 安装和使用
 

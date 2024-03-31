@@ -12,9 +12,7 @@
 
 Relying on the multi-source heterogeneous spatiotemporal big data and algorithm models accumulated in the early stage of the project, the team has built a three-level architecture application platform based on "digital intelligence integration" for wind power clusters, wind farm stations, and single wind turbines. While covering all aspects of wind power prediction, it also cleverly integrates advanced technologies such as the `Internet of Things`, `digital twins`, and `artificial intelligence`.
 
-<div align="center"><img alt="Tankenqi Logo" width="465" height="220" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172536574.png"></div>
-
-![image-20240331172536574](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172536574.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172536574.png"></div>
 
 Specifically, the project is based on a large-scale distributed database with full temporal and spatial resolution, as well as the team's innovative and integrated algorithm, the `Comprehensive Time series Fusion Networks (CTFN)`. In terms of digitization and intelligence, a multimodal large language model robot is introduced to create functional modules such as **data upload and preprocessing, training prediction, digital twin stations, wind farm monitoring screens, wind turbine anomaly monitoring, and AR wind power.**
 
@@ -22,7 +20,7 @@ Specifically, the project is based on a large-scale distributed database with fu
 
 The team proposed a prediction algorithm that integrates weather forecast data, models twenty wind turbines uniformly, and expands the dataset. Then expand the weather forecast data and input it into the encoder and decoder. Considering that the prediction performance varies for different wind turbine models, the team determines the model selection based on prediction errors, such as the model integration scheme of LightGBM and deep learning. Finally, the model algorithm also achieved good results among the top in the country (**score: 0.75274**).
 
-![image-20240331172804499](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172804499.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331172804499.png"></div>
 
 ## Innovative features
 
@@ -42,35 +40,35 @@ The team proposed a prediction algorithm that integrates weather forecast data, 
 
 - **Multiple terminals**
 
-![image-20240331173142289](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173142289.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173142289.png"></div>
 
 - **Data upload and preprocessing**
 
-![image-20240331173205307](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173205307.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173205307.png"></div>
 
 - **Training prediction**
 
-![image-20240331173252686](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173252686.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173252686.png"></div>
 
 - **Digital Field Station**
 
-![image-20240331173304257](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173304257.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173304257.png"></div>
 
 - **Monitoring large screen**
 
-![image-20240331173318637](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173318637.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173318637.png"></div>
 
 - **Abnormal monitoring**
 
-![image-20240331173328034](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173328034.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173328034.png"></div>
 
 - **AR**
 
-![image-20240331173358016](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173358016.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173358016.png"></div>
 
 - **Multimodal Q&A robot**
 
-![image-20240331173416524](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173416524.png)
+<div align="center"><img alt="Tankenqi Logo"  src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/image-20240331173416524.png"></div>
 
 ## Installation and Use
 
